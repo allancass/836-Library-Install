@@ -1,0 +1,6 @@
+Alvin=1
+Simon=3.14
+Theodore=Cake
+Brittany=2
+Jeanette=3.141593
+Eleanor=Soccer
